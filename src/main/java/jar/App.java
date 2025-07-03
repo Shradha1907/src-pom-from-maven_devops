@@ -1,5 +1,4 @@
 package jar;
-
 /**
  * Hello world!
  */
